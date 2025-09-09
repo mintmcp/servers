@@ -1,2 +1,2 @@
-# mcp
-MintMCP Server
+# What is MintMCP
+
