@@ -1,0 +1,2 @@
+# mcp
+MintMCP Server
